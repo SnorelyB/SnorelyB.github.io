@@ -1,7 +1,31 @@
 body{
+}
+.mainBody {
   padding: 25px;
   text-align: center;
   background-image: url('https://i.chzbgr.com/full/9252817152/hADCC7252/cursed-image-landmark-peanut');
+  background-size: cover;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pongBody {
+  padding: 25px;
+  text-align: center;
+  background-image: url(https://opengameart.org/sites/default/files/oga-textures/136049/arcade_carpet_1_512.png);
+  background-size: cover;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blogBody {
+  padding: 25px;
+  text-align: center;
+  background-image: url(https://img.magnific.com/free-vector/bring-night-space-wallpaper-with-glowing-starfield_1017-53512.jpg?semt=ais_hybrid&w=740&q=80);
   background-size: cover;
   display: flex;
   flex-direction: center;
@@ -52,4 +76,14 @@ div {
 
 #thanksMessage {
   color: white;
+}
+.blogIntro {
+  text-align: center;
+  color: white;
+  padding: 25px;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
