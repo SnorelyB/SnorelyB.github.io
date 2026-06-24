@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-image: url(https://t4.ftcdn.net/jpg/04/90/57/77/360_F_490577775_FJWG0sGo0OLoeBEcAIP4KSYjx1ofQ9o9.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.menuTitle {
+  color: #5C4033;
+}
+.mainBox {
+  border: 5px solid brown; 
+  background-color: white;
+}
+.mainBox div {
+   width: 500px;
+  height: 200px;
+  color: black;
+  background-color: white;
+}
+.menu {
+  color: white;
+}

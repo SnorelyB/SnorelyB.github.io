@@ -1,0 +1,55 @@
+body{
+  padding: 25px;
+  text-align: center;
+  background-image: url('https://i.chzbgr.com/full/9252817152/hADCC7252/cursed-image-landmark-peanut');
+  background-size: cover;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  background-color: rgba(1,1,1,0.4);
+  padding: 25px;
+  max-width: 80%;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+	color: #5C6AC4;
+	background-color: blue;
+}
+.image {
+  width: 500px;
+  height: 60px;
+}
+.bunny{
+  width: 100%;
+}
+.plans {
+  text-align: left;
+  color: white;
+  padding: 25px;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Link {
+  background-color: rgba(1,1,1,1);
+}
+
+#board {
+  background-color: black;
+  border-top: 5px solid skyblue;
+  border-bottom: 5px solid skyblue;
+}
+
+#thanksMessage {
+  color: white;
+}
