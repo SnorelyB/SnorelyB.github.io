@@ -1,0 +1,30 @@
+.blogBody {
+  padding: 25px;
+  text-align: center;
+  background-image: url(https://img.magnific.com/free-vector/bring-night-space-wallpaper-with-glowing-starfield_1017-53512.jpg?semt=ais_hybrid&w=740&q=80);
+  background-size: cover;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blogIntro {
+  text-align: center;
+  color: white;
+  padding: 25px;
+  display: flex;
+  flex-direction: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+}
+.blogPost {
+  text-align: left;
+  color: white;
+}
+.blogTitle {
+  color: #ffffff;
+	background-color: rgb(0, 0, 0);
+}
